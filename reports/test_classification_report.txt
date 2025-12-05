@@ -1,0 +1,30 @@
+                            precision    recall  f1-score   support
+
+          Ancistrus_albino     1.0000    1.0000    1.0000       150
+      Astyanax_altiparanae     0.9933    0.9933    0.9933       150
+  Bryconamericus_iheringii     1.0000    1.0000    1.0000       150
+         Characidium_zebra     0.9934    1.0000    0.9967       150
+     Cichlasoma_paranaense     1.0000    1.0000    1.0000       150
+      Crenicichla_britskii     0.9933    0.9867    0.9900       150
+      Crenicichla_haroldoi     0.9934    1.0000    0.9967       150
+    Geophagus_brasiliensis     0.9803    0.9933    0.9868       150
+  Gymnotus_inaequilabiatus     1.0000    1.0000    1.0000       150
+       Hoplias_Malabaricus     0.9934    1.0000    0.9967       150
+    Hoplosternum_littorale     0.9933    0.9867    0.9900       150
+   Hypostomus_ancistroides     1.0000    1.0000    1.0000       150
+      Imparfinis_schubarti     1.0000    0.9933    0.9967       150
+        Leporinus_striatus     1.0000    1.0000    1.0000       150
+    Olygosarcus_paranensis     1.0000    1.0000    1.0000       150
+Phalloceros_caudimaculatus     1.0000    0.9933    0.9967       150
+       Poecilia_reticulada     1.0000    1.0000    1.0000       150
+         Poecilia_vivipara     0.9934    1.0000    0.9967       150
+      Psalidodon_bockmanni     1.0000    1.0000    1.0000       150
+            Rhamdia_quelen     0.9868    1.0000    0.9934       150
+     Serrapinnus_notomelas     1.0000    1.0000    1.0000       150
+     Serrasalmus_maculatus     1.0000    0.9933    0.9967       150
+    Synbranchus_marmoratus     1.0000    1.0000    1.0000       150
+          Trichomyterus_sp     0.9932    0.9733    0.9832       150
+
+                  accuracy                         0.9964      3600
+                 macro avg     0.9964    0.9964    0.9964      3600
+              weighted avg     0.9964    0.9964    0.9964      3600

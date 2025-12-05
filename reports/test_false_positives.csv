@@ -1,0 +1,14 @@
+filepath,true_idx,true_label,pred_idx,pred_label,prob_pred_class,prob_true_class,as_positive_class
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Serrasalmus_maculatus\Serrasalmus_maculatus297.jpg,21,Serrasalmus_maculatus,1,Astyanax_altiparanae,0.6388243,0.33841288,Astyanax_altiparanae
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Trichomyterus_sp\Trichomyterus_sp146.jpg,23,Trichomyterus_sp,3,Characidium_zebra,0.990608,0.0051391847,Characidium_zebra
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Geophagus_brasiliensis\Geophagus_brasiliensis196.jpg,7,Geophagus_brasiliensis,5,Crenicichla_britskii,0.9689664,0.029478015,Crenicichla_britskii
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Trichomyterus_sp\Trichomyterus_sp209.jpg,23,Trichomyterus_sp,6,Crenicichla_haroldoi,0.5725658,0.42603076,Crenicichla_haroldoi
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Crenicichla_britskii\Crenicichla_britskii124.jpg,5,Crenicichla_britskii,7,Geophagus_brasiliensis,0.95984274,0.038460735,Geophagus_brasiliensis
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Crenicichla_britskii\Crenicichla_britskii265.jpg,5,Crenicichla_britskii,7,Geophagus_brasiliensis,0.82664,0.17262617,Geophagus_brasiliensis
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Hoplosternum_littorale\Hoplosternum_littorale139.jpg,10,Hoplosternum_littorale,7,Geophagus_brasiliensis,0.73583543,0.26414648,Geophagus_brasiliensis
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Imparfinis_schubarti\Imparfinis_schubarti370.jpg,12,Imparfinis_schubarti,9,Hoplias_Malabaricus,0.7247907,0.20736726,Hoplias_Malabaricus
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Astyanax_altiparanae\Astyanax_altiparanae055.jpg,1,Astyanax_altiparanae,10,Hoplosternum_littorale,0.54886425,0.4509085,Hoplosternum_littorale
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Phalloceros_caudimaculatus\Phalloceros_caudimaculatus081.jpg,15,Phalloceros_caudimaculatus,17,Poecilia_vivipara,0.7991035,0.17388488,Poecilia_vivipara
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Trichomyterus_sp\Trichomyterus_sp034.jpg,23,Trichomyterus_sp,19,Rhamdia_quelen,0.8665317,0.030988896,Rhamdia_quelen
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Trichomyterus_sp\Trichomyterus_sp033.jpg,23,Trichomyterus_sp,19,Rhamdia_quelen,0.46808478,0.46059954,Rhamdia_quelen
+C:\Users\Fábio\Desktop\Banco de Imagens Completo\original\Hoplosternum_littorale\Hoplosternum_littorale021.jpg,10,Hoplosternum_littorale,23,Trichomyterus_sp,0.99339855,0.0015154048,Trichomyterus_sp
